@@ -1,0 +1,9 @@
+{
+  "name": "RX Calculator",
+  "short_name": "RX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#087cff",
+  "description": "RX Calculator"
+}
